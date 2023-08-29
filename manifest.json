@@ -1,0 +1,16 @@
+{
+    "name": "Premier League Standing",
+    "version": "1.0.0",
+    "description": "Get live league standings for all the clubs in the Premier League",
+    "manifest_version": 2,
+    "author": "Soham Ghosh",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Premier League Standing",
+        "default_icon": {
+            "16": "image/logo1.jpg",
+            "48": "image/logo1.jpg",
+            "128": "image/logo1.jpg"
+        }
+    }
+}
